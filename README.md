@@ -48,5 +48,5 @@ Hideki Nakayama, Akihiro Tamura, and Takashi Ninomiya, In Proceedings of The 12t
   pages     = {4204--4210},
 }
 ```
-## Acknowledgement
+## Acknowledgment
 This project is supported by “Research and Development of DeepLearning Technology for Advanced Multilingual Speech Translation”, the Com-missioned Research of National Institute of Information and CommunicationsTechnology (NICT), JAPAN.  
