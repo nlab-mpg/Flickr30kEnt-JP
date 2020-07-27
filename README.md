@@ -5,6 +5,9 @@ Japanese translation of the Flickr30k Entities dataset presented in [our paper a
 
 Our dataset is based on the original [Flickr30k](http://shannon.cs.illinois.edu/DenotationGraph/) and [Flickr30k Entities](http://bryanplummer.com/Flickr30kEntities/) datasets. We do not own the copyrights of images, English captions, and annotations in these datasets. Please visit the authors' web pages and follow their instructions to download them.
 
+
+**(2020 July) New: we are going to have [Multimodal English-Japanese translation task](https://nlab-mpg.github.io/wat2020-mmt-jp/) at [WAT2020](https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2020/index.html)!**  
+
 ## License
 Our dataset is released under the [Creative Commons Attribution-ShareAlike (CC BY-SA) license](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
@@ -30,7 +33,7 @@ Below, we quote the first two lines of a file in the Flickr30k Entities and our 
 ```
 For instance, the Japanese phrase "ピンクのワンピース" at the head of the first caption corresponds to the second phrase in the English caption, "a pink dress". Similarly, we can find that "木造の小屋" in the second caption corresponds to the third phrase in English, "a wooden cabin". 
 
-Note that some tags in the original English captions do not appear in our Japanese translations when it is difficult to keep explict phrase-to-phrase correspondences (see our paper for details).
+Note that some tags in the original English captions do not appear in our Japanese translations when it is difficult to keep explicit phrase-to-phrase correspondences (see our paper for details).
 
 ## Reference
 If you use this dataset, please cite the following paper ([pdf](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.518.pdf)).
