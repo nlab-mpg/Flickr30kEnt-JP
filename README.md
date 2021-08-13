@@ -37,6 +37,7 @@ Below, we quote the first two lines of a file in the Flickr30k Entities and our 
 For instance, the Japanese phrase "ピンクのワンピース" at the head of the first caption corresponds to the second phrase in the English caption, "a pink dress". Similarly, we can find that "木造の小屋" in the second caption corresponds to the third phrase in English, "a wooden cabin". 
 
 Note that some tags in the original English captions do not appear in our Japanese translations when it is difficult to keep explicit phrase-to-phrase correspondences (see our paper for details).
+In addition, several Japanese sentences in the dataset are actually kept blank where the corresponding original English captions were corrupted or badly annotated. See the file UNRELATED_CAPTIONS in the Flickr30k Entities.
 
 ## Reference
 If you use this dataset, please cite the following paper ([pdf](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.518.pdf)).
