@@ -8,7 +8,7 @@ Our dataset is based on the original [Flickr30k](http://shannon.cs.illinois.edu/
 
 **(2020 July) We are going to have [Multimodal English-Japanese Translation Task](https://nlab-mpg.github.io/wat2020-mmt-jp/) at [WAT2020](https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2020/index.html)!**
 
-**(2021 August) We released the full translation of all captions in the original Flickr30k (check our v2 dataset).**  
+**(2021 August) We released the full translation of all captions in the original Flickr30k (check our [v2 dataset](Sentences_jp_v2.tgz)).**  
 
 ## License
 Our dataset is released under the [Creative Commons Attribution-ShareAlike (CC BY-SA) license](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
