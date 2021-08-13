@@ -15,7 +15,8 @@ Our dataset is released under the [Creative Commons Attribution-ShareAlike (CC B
 
 ## Dataset Description
 We basically follow the same annotation rules as the Flickr30k Entities dataset.
-You can find the text files named (image_id).txt corresponding to each image in Flickr30k. The files are encoded in the UTF-8 format. Each file has two lines (sentences) that correspond to the first two English captions for the same image in the Flickr30k Entities. 
+You can find the text files named (image_id).txt corresponding to each image in Flickr30k. The files are encoded in the UTF-8 format. Each file has five lines (sentences) that correspond to the five English captions for the same image in the Flickr30k Entities.   
+(Note that our v1 dataset presented in the LREC'20 paper contains the translation of only the first two English captions for each image.)
 
 We use the following notation for annotating phrases. 
 ```
