@@ -6,7 +6,9 @@ Japanese translation of the Flickr30k Entities dataset presented in [our paper a
 Our dataset is based on the original [Flickr30k](http://shannon.cs.illinois.edu/DenotationGraph/) and [Flickr30k Entities](http://bryanplummer.com/Flickr30kEntities/) datasets. We do not own the copyrights of images, English captions, and annotations in these datasets. Please visit the authors' web pages and follow their instructions to download them.
 
 
-**(2020 July) New: we are going to have [Multimodal English-Japanese Translation Task](https://nlab-mpg.github.io/wat2020-mmt-jp/) at [WAT2020](https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2020/index.html)!**  
+**(2020 July) We are going to have [Multimodal English-Japanese Translation Task](https://nlab-mpg.github.io/wat2020-mmt-jp/) at [WAT2020](https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2020/index.html)!**  
+
+**(2021 August) We released the full translation of all captions in the original dataset (check v2 dataset). **  
 
 ## License
 Our dataset is released under the [Creative Commons Attribution-ShareAlike (CC BY-SA) license](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
